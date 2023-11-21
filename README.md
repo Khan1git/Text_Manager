@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+This app has a light and dark mode functionalities
+it can convert text to uppercase lowercase and also can speak the text
+it also shows the number of the words written and also tells us how much time it will take to read the text written in the box
+
 ## Available Scripts
 
 In the project directory, you can run:
